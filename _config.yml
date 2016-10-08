@@ -82,3 +82,8 @@ sitemap:
 
 category_generator:
   per_page: 10
+
+search:
+  path: search.json
+  source: posts
+  trim_html: false
