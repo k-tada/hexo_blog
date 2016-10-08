@@ -1,8 +1,10 @@
 ---
 title: Vimmerになろう 〜Road to Vimmer〜 第1回
-date: 2016-10-05 17:07:10
+date: 2016-10-05 10:00:00
 tags:
-  - "vim"
+  - vim
+categories:
+  - editor
 author: "k.tada"
 ---
 
